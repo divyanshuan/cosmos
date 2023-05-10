@@ -3,3 +3,12 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+.apple {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    270deg,
+    rgb(12, 9, 81) 0%,
+    rgba(30, 30, 161, 0.851) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
